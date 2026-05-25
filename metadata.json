@@ -1,0 +1,6 @@
+{
+  "name": "GP PANEL",
+  "description": "Premium system booster visualizer, Free Fire UID statistics search, AI assistant chat, calendar scheduler, notes organizer, and interactive holographic overlay panel simulator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
